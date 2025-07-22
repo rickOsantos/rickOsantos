@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ricardo Santos
 
-**`Infraestrutur de T.I, Devops, Desenvolvimento web`**
+**`Infraestrutura de T.I, Devops, Desenvolvimento web`**
 
 Me chamo Ricardo Santos, sou natural de São Paulo. possuo curso técnico em informática. Atualmente, cursando Ciencia da computação na Kroton(UniABC). Sou apaixonado por tecnologia e procuro oportunidades de trabalha com Devops e infra de T.I "[Dev em Dev].
 
@@ -48,7 +48,7 @@ Me chamo Ricardo Santos, sou natural de São Paulo. possuo curso técnico em inf
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg](https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png)" 
 />
 <img 
     align="left" 
