@@ -2,7 +2,7 @@
 
 **`Infraestrutura de T.I, Devops, Desenvolvimento web`**
 
-Me chamo Ricardo Santos, sou natural de São Paulo. possuo curso técnico em informática. Atualmente, cursando Ciencia da computação na Kroton(UniABC). Sou apaixonado por tecnologia e procuro oportunidades de trabalha com Devops e infra de T.I "[Dev em Dev]".
+Me chamo Ricardo Santos, sou natural de São Paulo. possuo curso técnico em informática. Atualmente, cursando Ciencia da computação na Kroton(UniABC). Sou apaixonado por tecnologia e procuro oportunidades de trabalha com Devops e infra de T.I.
 
 <p align="left">
     <a href="https://github.com/rickOsantos?tab=repositories&sort=stargazers">
@@ -16,7 +16,7 @@ Me chamo Ricardo Santos, sou natural de São Paulo. possuo curso técnico em inf
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rickOsantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
