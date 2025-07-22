@@ -2,7 +2,7 @@
 
 **`Infraestrutura de T.I, Devops, Desenvolvimento web`**
 
-Me chamo Ricardo Santos, sou natural de São Paulo. possuo curso técnico em informática. Atualmente, cursando Ciencia da computação na Kroton(UniABC). Sou apaixonado por tecnologia e procuro oportunidades de trabalha com Devops e infra de T.I "[Dev em Dev].
+Me chamo Ricardo Santos, sou natural de São Paulo. possuo curso técnico em informática. Atualmente, cursando Ciencia da computação na Kroton(UniABC). Sou apaixonado por tecnologia e procuro oportunidades de trabalha com Devops e infra de T.I "[Dev em Dev]".
 
 <p align="left">
     <a href="https://github.com/rickOsantos?tab=repositories&sort=stargazers">
